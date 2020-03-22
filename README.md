@@ -1,5 +1,5 @@
 # SRA-Project
 
-Technology Stack
--NodeJS
--Selenium Webdriver
+Technology Stack  
+-NodeJS  
+-Selenium Webdriver  
